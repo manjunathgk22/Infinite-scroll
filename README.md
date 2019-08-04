@@ -23,3 +23,4 @@ Builds the app for production to the `build` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 ### Refresh after device switch, responsive is handled in JS not in CSS
+### Contact me if the api is giving error
